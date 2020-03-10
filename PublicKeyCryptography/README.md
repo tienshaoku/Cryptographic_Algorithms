@@ -48,7 +48,7 @@ generate the public key (n,e) and private key (n,d)
 ## How to Run
 ```properties
 1. py generateKeyPair.py
-1. py publicKeyCryptography.py
-2. enter your message
-3. enter "encrypt" or "decrypt"
+2. py publicKeyCryptography.py
+3. enter your message
+4. enter "encrypt" or "decrypt"
 ```
