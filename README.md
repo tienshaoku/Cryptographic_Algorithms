@@ -11,4 +11,4 @@ This is the practices of cryptographic algorithms containing:
 - Vigenere Cipher
 
 **Reference:**
-[Cracking Codes with Pythone](https://nostarch.com/crackingcodes)
+[Cracking Codes with Python](https://nostarch.com/crackingcodes)
